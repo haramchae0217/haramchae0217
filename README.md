@@ -24,17 +24,17 @@
 
 ## 🌈 It's Me 🌈
 
-  <a href = "https://github.com/haramchae0217"><img alt="GitHub" src ="https://img.shields.io/badge/chaeHaram-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <a href = "https://github.com/haramchae0217"><img alt="GitHub" src ="https://img.shields.io/badge/haramchae0217-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <a href = "https://instagram.com/kicked_uk98"> <img alt="Instagram" src ="https://img.shields.io/badge/kicked_uk98-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <img alt="Gmail" src 
 ="https://img.shields.io/badge/chaeHaram0217@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
   </br>
   <a href="https://github.com/haramchae0217">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeHaram&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=haramchae0217&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
 <br>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FchaeHaram&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharamchae0217&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false"/></a>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
