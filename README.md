@@ -19,7 +19,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></br>
 <a href="https://github.com/haramchae0217">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeHaram&layout=compact&show_icons=true&show_owner=ture&theme=radical&hide=HTML,PHP,CSS,Hack" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haramchae0217&layout=compact&show_icons=true&show_owner=ture&theme=radical&hide=HTML,PHP,CSS,Hack" />
 </a>
 
 ## 🌈 It's Me 🌈
