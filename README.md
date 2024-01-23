@@ -26,8 +26,7 @@
 
   <a href = "https://github.com/haramchae0217"><img alt="GitHub" src ="https://img.shields.io/badge/haramchae0217-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
   <a href = "https://instagram.com/ku._____.uk/"> <img alt="Instagram" src ="https://img.shields.io/badge/ku._____.uk-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <img alt="Gmail" src 
-="https://img.shields.io/badge/chaeHaram0217@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img alt="Gmail" src ="https://img.shields.io/badge/chaeHaram0217@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
   </br>
   <a href="https://github.com/haramchae0217">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=haramchae0217&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=radical" />
